@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>luyao</title>
+    <link href="https://luyaowo.github.io/luyaowo.github.io/feed.xml" rel="self" />
+    <link href="https://luyaowo.github.io/luyaowo.github.io" />
+    <updated>2020-11-30T22:19:05+08:00</updated>
+    <author>
+        <name>luyaowo</name>
+    </author>
+    <id>https://luyaowo.github.io/luyaowo.github.io</id>
+
+    <entry>
+        <title>设计</title>
+        <author>
+            <name>luyaowo</name>
+        </author>
+        <link href="https://luyaowo.github.io/luyaowo.github.io/she-ji.html"/>
+        <id>https://luyaowo.github.io/luyaowo.github.io/she-ji.html</id>
+
+        <updated>2020-11-30T22:19:05+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://luyaowo.github.io/luyaowo.github.io/media/posts/1/Tong-Yong-She-Ji-Yan-Jiu-Shi-Fu-Ben_-Hua-Ban-1-2.png" alt="" />
+                <p><img loading="lazy" src="https://luyaowo.github.io/luyaowo.github.io/media/posts/1/Tong-Yong-She-Ji-Yan-Jiu-Shi-Fu-Ben_-Hua-Ban-1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://luyaowo.github.io/luyaowo.github.io/media/posts/1/responsive/Tong-Yong-She-Ji-Yan-Jiu-Shi-Fu-Ben_-Hua-Ban-1-xs.png 300w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/1/responsive/Tong-Yong-She-Ji-Yan-Jiu-Shi-Fu-Ben_-Hua-Ban-1-sm.png 480w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/1/responsive/Tong-Yong-She-Ji-Yan-Jiu-Shi-Fu-Ben_-Hua-Ban-1-md.png 768w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/1/responsive/Tong-Yong-She-Ji-Yan-Jiu-Shi-Fu-Ben_-Hua-Ban-1-lg.png 1024w"  alt="" width="3334" height="2500"></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

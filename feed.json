@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "luyao",
+    "description": "",
+    "home_page_url": "https://luyaowo.github.io/luyaowo.github.io",
+    "feed_url": "https://luyaowo.github.io/luyaowo.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "luyaowo"
+    },
+    "items": [
+        {
+            "id": "https://luyaowo.github.io/luyaowo.github.io/she-ji.html",
+            "url": "https://luyaowo.github.io/luyaowo.github.io/she-ji.html",
+            "title": "设计",
+            "content_html": "<p><img loading=\"lazy\" src=\"https://luyaowo.github.io/luyaowo.github.io/media/posts/1/Tong-Yong-She-Ji-Yan-Jiu-Shi-Fu-Ben_-Hua-Ban-1.png\" sizes=\"(max-width: 1024px) 100vw, 1024px\" srcset=\"https://luyaowo.github.io/luyaowo.github.io/media/posts/1/responsive/Tong-Yong-She-Ji-Yan-Jiu-Shi-Fu-Ben_-Hua-Ban-1-xs.png 300w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/1/responsive/Tong-Yong-She-Ji-Yan-Jiu-Shi-Fu-Ben_-Hua-Ban-1-sm.png 480w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/1/responsive/Tong-Yong-She-Ji-Yan-Jiu-Shi-Fu-Ben_-Hua-Ban-1-md.png 768w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/1/responsive/Tong-Yong-She-Ji-Yan-Jiu-Shi-Fu-Ben_-Hua-Ban-1-lg.png 1024w\"  alt=\"\" width=\"3334\" height=\"2500\"></p>",
+            "image": "https://luyaowo.github.io/luyaowo.github.io/media/posts/1/Tong-Yong-She-Ji-Yan-Jiu-Shi-Fu-Ben_-Hua-Ban-1-2.png",
+            "author": {
+                "name": "luyaowo"
+            },
+            "tags": [
+            ],
+            "date_published": "2020-11-30T17:43:06+08:00",
+            "date_modified": "2020-11-30T22:19:05+08:00"
+        }
+    ]
+}
