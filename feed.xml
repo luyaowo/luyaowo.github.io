@@ -1,14 +1,57 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>luyao</title>
+    <title>路遥知玛丽</title>
     <link href="https://luyaowo.github.io/luyaowo.github.io/feed.xml" rel="self" />
     <link href="https://luyaowo.github.io/luyaowo.github.io" />
-    <updated>2020-12-01T22:44:29+08:00</updated>
+    <updated>2020-12-04T20:01:16+08:00</updated>
     <author>
         <name>luyaowo</name>
     </author>
     <id>https://luyaowo.github.io/luyaowo.github.io</id>
 
+    <entry>
+        <title>行星</title>
+        <author>
+            <name>luyaowo</name>
+        </author>
+        <link href="https://luyaowo.github.io/luyaowo.github.io/xing-xing.html"/>
+        <id>https://luyaowo.github.io/luyaowo.github.io/xing-xing.html</id>
+
+        <updated>2020-12-04T20:01:16+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/8.png" alt="" />
+                <div class="gallery-wrapper"><div class="gallery"  data-is-empty="false" data-columns="2">
+<figure class="gallery__item"><a href="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/4.png" data-size="500x500"><img loading="lazy" src="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/4-thumbnail.png" alt="" width="500" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/5.png" data-size="500x500"><img loading="lazy" src="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/5-thumbnail.png" alt="" width="500" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/6.png" data-size="500x500"><img loading="lazy" src="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/6-thumbnail.png" alt="" width="500" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/7.png" data-size="500x500"><img loading="lazy" src="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/7-thumbnail.png" alt="" width="500" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/8.png" data-size="500x500"><img loading="lazy" src="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/8-thumbnail.png" alt="" width="500" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/9.png" data-size="500x500"><img loading="lazy" src="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/9-thumbnail.png" alt="" width="500" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/10.png" data-size="500x500"><img loading="lazy" src="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/10-thumbnail.png" alt="" width="500" height="500"></a></figure>
+<figure class="gallery__item"><a href="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/11.png" data-size="500x500"><img loading="lazy" src="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/gallery/11-thumbnail.png" alt="" width="500" height="500"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>窗户上的雨滴</title>
+        <author>
+            <name>luyaowo</name>
+        </author>
+        <link href="https://luyaowo.github.io/luyaowo.github.io/chuang-hu-shang-de-yu-di.html"/>
+        <id>https://luyaowo.github.io/luyaowo.github.io/chuang-hu-shang-de-yu-di.html</id>
+
+        <updated>2020-12-04T19:30:42+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://luyaowo.github.io/luyaowo.github.io/media/posts/3/Instagram-Post-1.png" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://luyaowo.github.io/luyaowo.github.io/media/posts/3/Untitled-2.gif" alt="" width="1080" height="1080"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>多肉植物</title>
         <author>
@@ -17,14 +60,14 @@
         <link href="https://luyaowo.github.io/luyaowo.github.io/duo-rou-zhi-wu.html"/>
         <id>https://luyaowo.github.io/luyaowo.github.io/duo-rou-zhi-wu.html</id>
 
-        <updated>2020-12-01T22:44:29+08:00</updated>
+        <updated>2020-12-03T22:44:30+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                     <img src="https://luyaowo.github.io/luyaowo.github.io/media/posts/2/1-2.png" alt="" />
                 <figure class="post__image align-center"><img loading="lazy"  src="https://luyaowo.github.io/luyaowo.github.io/media/posts/2/1.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/1-xs.png 300w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/1-sm.png 480w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/1-md.png 768w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/1-lg.png 1024w"  alt="" width="300" height="300"></figure>
 <figure class="post__image align-center"><img loading="lazy"  src="https://luyaowo.github.io/luyaowo.github.io/media/posts/2/2.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/2-xs.png 300w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/2-sm.png 480w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/2-md.png 768w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/2-lg.png 1024w"  alt="" width="300" height="300"></figure>
-<figure class="post__image"><img loading="lazy"  src="https://luyaowo.github.io/luyaowo.github.io/media/posts/2/3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/3-xs.png 300w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/3-sm.png 480w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/3-md.png 768w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/3-lg.png 1024w"  alt="" width="300" height="300"></figure>
+<figure class="post__image align-center"><img loading="lazy"  src="https://luyaowo.github.io/luyaowo.github.io/media/posts/2/3.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/3-xs.png 300w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/3-sm.png 480w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/3-md.png 768w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/2/responsive/3-lg.png 1024w"  alt="" width="300" height="300"></figure>
             ]]>
         </content>
     </entry>
@@ -36,7 +79,7 @@
         <link href="https://luyaowo.github.io/luyaowo.github.io/she-ji.html"/>
         <id>https://luyaowo.github.io/luyaowo.github.io/she-ji.html</id>
 
-        <updated>2020-11-30T22:19:05+08:00</updated>
+        <updated>2020-12-02T16:48:37+08:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
