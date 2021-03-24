@@ -3,12 +3,29 @@
     <title>路遥知玛丽</title>
     <link href="https://luyaowo.github.io/luyaowo.github.io/feed.xml" rel="self" />
     <link href="https://luyaowo.github.io/luyaowo.github.io" />
-    <updated>2020-12-04T20:01:16+08:00</updated>
+    <updated>2021-03-24T17:22:32+08:00</updated>
     <author>
         <name>luyaowo</name>
     </author>
     <id>https://luyaowo.github.io/luyaowo.github.io</id>
 
+    <entry>
+        <title>blender临摹</title>
+        <author>
+            <name>luyaowo</name>
+        </author>
+        <link href="https://luyaowo.github.io/luyaowo.github.io/blender-lin-mo.html"/>
+        <id>https://luyaowo.github.io/luyaowo.github.io/blender-lin-mo.html</id>
+
+        <updated>2021-03-24T17:22:32+08:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://luyaowo.github.io/luyaowo.github.io/media/posts/5/2.png" alt="" />
+                <figure class="post__image"><img loading="lazy"  src="https://luyaowo.github.io/luyaowo.github.io/media/posts/5/untitled.png" sizes="(max-width: 1024px) 100vw, 1024px" srcset="https://luyaowo.github.io/luyaowo.github.io/media/posts/5/responsive/untitled-xs.png 300w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/5/responsive/untitled-sm.png 480w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/5/responsive/untitled-md.png 768w ,https://luyaowo.github.io/luyaowo.github.io/media/posts/5/responsive/untitled-lg.png 1024w"  alt="" width="820" height="1080"></figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>行星</title>
         <author>
@@ -18,7 +35,12 @@
         <id>https://luyaowo.github.io/luyaowo.github.io/xing-xing.html</id>
 
         <updated>2020-12-04T20:01:16+08:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/8.png" alt="" />
+                     
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://luyaowo.github.io/luyaowo.github.io/media/posts/4/8.png" alt="" />
@@ -61,7 +83,12 @@
         <id>https://luyaowo.github.io/luyaowo.github.io/duo-rou-zhi-wu.html</id>
 
         <updated>2020-12-03T22:44:30+08:00</updated>
-            <summary></summary>
+            <summary>
+                <![CDATA[
+                        <img src="https://luyaowo.github.io/luyaowo.github.io/media/posts/2/1-2.png" alt="" />
+                     
+                ]]>
+            </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://luyaowo.github.io/luyaowo.github.io/media/posts/2/1-2.png" alt="" />
